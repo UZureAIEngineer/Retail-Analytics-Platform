@@ -281,4 +281,4 @@ Senior Analytics Professional | Banking Analytics | Retail Analytics | Python | 
 
 ## Disclaimer
 
-This project is created for learning, portfolio development, and demonstration of analytics and AI capabilities.
+This project is an independent educational and portfolio implementation inspired by general Retail Measurement Services (RMS), retail analytics, and FMCG market measurement concepts acquired through professional experience. No proprietary methodologies, client data, internal documentation, or confidential information have been used.
