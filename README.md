@@ -47,6 +47,24 @@ The platform addresses key business questions:
 
 ---
 
+## Retail Industry Use Cases
+
+This platform demonstrates analytics capabilities
+commonly used across Retail and FMCG organizations:
+
+• Retail Measurement Analytics
+• Store Performance Monitoring
+• Pricing Intelligence
+• Promotion Effectiveness Measurement
+• Category Performance Analysis
+• Customer Segmentation
+• Customer Retention Analytics
+• Demand Forecasting
+• Retail KPI Reporting
+• Omnichannel Customer Analytics
+
+---
+
 ## Project Roadmap
 
 ### Phase 1 - Sales Analytics Dashboard
@@ -88,6 +106,17 @@ The platform addresses key business questions:
 - Automated KPI Monitoring
 - Intelligent Recommendations
 - Conversational Analytics
+
+## Phase 7 – Retail Measurement Analytics
+
+
+• Market Measurement
+• Store Performance Analytics
+• Pricing Analytics
+• Promotion Analytics
+• Category Analytics
+• Omnichannel Analytics
+
 
 ---
 ### Latest Updates
