@@ -4,15 +4,25 @@ An end-to-end analytics platform demonstrating modern retail, FMCG and omnichann
 
 The platform showcases practical retail analytics concepts including:
 
+
 • Customer Analytics
+
 • Retail Measurement Analytics
+
 • Store Performance Analytics
+
 • Pricing Analytics
+
 • Promotion Effectiveness Analytics
+
 • Category Management Analytics
+
 • Demand Forecasting
+
 • Retail KPI Reporting
+
 • Omnichannel Retail Analytics
+
 
 This project showcases real-world retail analytics use cases including sales performance analysis, customer segmentation, churn prediction, demand forecasting, and AI-powered business insights using below technology stacks and techniques.
 
@@ -122,39 +132,67 @@ The platform addresses key business questions:
 ---
 
 Customer Analytics
+
 • RFM Segmentation
+
 • Customer Lifetime Value
+
 • Customer Churn Analytics
 
+
 Retail Performance Analytics
+
 • Store Performance Measurement
+
 • Sales Performance Monitoring
+
 • Market Share Analytics
 
+
 Pricing Analytics
+
 • Price Monitoring
+
 • Price Sensitivity Analysis
+
 • Competitive Pricing Analysis
 
+
 Promotion Analytics
+
 • Campaign Performance
+
 • Promotion Lift Measurement
+
 • Revenue Impact Analysis
 
+
 Category Analytics
+
 • Category Performance
+
 • Product Mix Analysis
+
 • Consumer Purchase Trends
 
+
 Omnichannel Analytics
+
 • Store Channel Analytics
+
 • Digital Channel Analytics
+
 • Consumer Journey Analysis
 
+
 Forecasting Analytics
+
 • Sales Forecasting
+
 • Inventory Forecasting
+
 • Seasonal Trend Analysis
+
 
 ---
 
