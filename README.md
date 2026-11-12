@@ -1,4 +1,5 @@
-# Retail & FMCG Analytics Platform
+## Retail & FMCG Analytics Platform
+
 
 An end-to-end analytics platform demonstrating modern retail, FMCG and omnichannel analytics using Python, SQL, Power BI and AI.
 
@@ -107,8 +108,7 @@ commonly used across Retail and FMCG organizations:
 - Intelligent Recommendations
 - Conversational Analytics
 
-## Phase 7 – Retail Measurement Analytics
-
+### Phase 7 - Retail Measurement Analytics
 
 • Market Measurement
 
