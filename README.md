@@ -309,7 +309,10 @@ Retail-Analytics-Platform/
 
 • Omnichannel Retail Analytics
 
+• Shopper Analytics
+
 • Consumer Purchase Behavior Analytics
+
 
 
 ## Future Technical Enhancements
