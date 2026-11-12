@@ -131,7 +131,8 @@ The platform addresses key business questions:
 
 ---
 
-Customer Analytics
+
+# Customer Analytics
 
 • RFM Segmentation
 
@@ -140,7 +141,8 @@ Customer Analytics
 • Customer Churn Analytics
 
 
-Retail Performance Analytics
+
+# Retail Performance Analytics
 
 • Store Performance Measurement
 
@@ -149,7 +151,8 @@ Retail Performance Analytics
 • Market Share Analytics
 
 
-Pricing Analytics
+
+# Pricing Analytics
 
 • Price Monitoring
 
@@ -158,7 +161,8 @@ Pricing Analytics
 • Competitive Pricing Analysis
 
 
-Promotion Analytics
+
+# Promotion Analytics
 
 • Campaign Performance
 
@@ -167,7 +171,8 @@ Promotion Analytics
 • Revenue Impact Analysis
 
 
-Category Analytics
+
+# Category Analytics
 
 • Category Performance
 
@@ -176,7 +181,8 @@ Category Analytics
 • Consumer Purchase Trends
 
 
-Omnichannel Analytics
+
+# Omnichannel Analytics
 
 • Store Channel Analytics
 
@@ -185,7 +191,8 @@ Omnichannel Analytics
 • Consumer Journey Analysis
 
 
-Forecasting Analytics
+
+# Forecasting Analytics
 
 • Sales Forecasting
 
