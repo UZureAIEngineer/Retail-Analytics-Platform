@@ -111,11 +111,17 @@ commonly used across Retail and FMCG organizations:
 
 
 • Market Measurement
+
 • Store Performance Analytics
+
 • Pricing Analytics
+
 • Promotion Analytics
+
 • Category Analytics
+
 • Omnichannel Analytics
+
 
 
 ---
