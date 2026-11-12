@@ -1,8 +1,18 @@
-# Retail Analytics Platform
+# Retail & FMCG Analytics Platform
 
-## Overview
+An end-to-end analytics platform demonstrating modern retail, FMCG and omnichannel analytics using Python, SQL, Power BI and AI.
 
-Retail Analytics Platform is an end-to-end analytics portfolio project demonstrating how modern retailers can leverage data, analytics, machine learning, and AI to drive business growth and customer engagement.
+The platform showcases practical retail analytics concepts including:
+
+• Customer Analytics
+• Retail Measurement Analytics
+• Store Performance Analytics
+• Pricing Analytics
+• Promotion Effectiveness Analytics
+• Category Management Analytics
+• Demand Forecasting
+• Retail KPI Reporting
+• Omnichannel Retail Analytics
 
 This project showcases real-world retail analytics use cases including sales performance analysis, customer segmentation, churn prediction, demand forecasting, and AI-powered business insights using below technology stacks and techniques.
 
@@ -104,6 +114,47 @@ The platform addresses key business questions:
 - Generative AI
 - Azure AI Services
 - LLM-Based Insights
+
+---
+
+# Retail & FMCG Domain Coverage
+
+---
+
+Customer Analytics
+• RFM Segmentation
+• Customer Lifetime Value
+• Customer Churn Analytics
+
+Retail Performance Analytics
+• Store Performance Measurement
+• Sales Performance Monitoring
+• Market Share Analytics
+
+Pricing Analytics
+• Price Monitoring
+• Price Sensitivity Analysis
+• Competitive Pricing Analysis
+
+Promotion Analytics
+• Campaign Performance
+• Promotion Lift Measurement
+• Revenue Impact Analysis
+
+Category Analytics
+• Category Performance
+• Product Mix Analysis
+• Consumer Purchase Trends
+
+Omnichannel Analytics
+• Store Channel Analytics
+• Digital Channel Analytics
+• Consumer Journey Analysis
+
+Forecasting Analytics
+• Sales Forecasting
+• Inventory Forecasting
+• Seasonal Trend Analysis
 
 ---
 
