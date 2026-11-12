@@ -259,8 +259,25 @@ Retail-Analytics-Platform/
 
 ---
 
+## Future Retail Enhancements
 
-## Future Enhancements
+
+• Store Performance Analytics
+
+• Pricing Optimization Analytics
+
+• Promotion Effectiveness Analytics
+
+• Category Management Analytics
+
+• Retail Market Measurement Analytics
+
+• Omnichannel Retail Analytics
+
+• Consumer Purchase Behavior Analytics
+
+
+## Future Technical Enhancements
 
 - Azure AI Integration
 - Retail Copilot
@@ -270,6 +287,8 @@ Retail-Analytics-Platform/
 - Cloud Deployment
 
 ---
+
+
 
 ## Author
 
