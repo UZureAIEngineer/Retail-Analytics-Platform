@@ -208,23 +208,24 @@ Retail-Analytics-Platform/
 
 ├── data/
 
-  │   
-  ├── raw/
+   │   
+   ├── raw/
  
-  │   
-  ├── processed/
+   │   
+   ├── processed/
 
-  │   
-  └── sample_data/
+   │   
+   └── sample_data/
 
 │
+
 ├── notebooks/
 
-  │  
-  ├── 01_Data_Exploration.ipynb
+   │  
+   ├── 01_Data_Exploration.ipynb
 
-  │   
-  ├── 02_Retail_EDA_Clean.ipynb
+   │   
+   ├── 02_Retail_EDA_Clean.ipynb
 
   │  
   ├── 03_Executive_Dashboard_Data_Prep.ipynb
