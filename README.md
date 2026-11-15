@@ -70,11 +70,16 @@ commonly used across Retail and FMCG organizations:
 
 ### Phase 1 - Sales Analytics Dashboard
 
-Revenue Analytics
-Order Analytics
-Store Performance
-Product Performance
-Profitability Analytics
+- Revenue Analytics
+  
+- Order Analytics
+  
+- Store Performance
+  
+- Product Performance
+  
+- Profitability Analytics
+  
 
 ### Phase 2 - Customer Analytics
 
