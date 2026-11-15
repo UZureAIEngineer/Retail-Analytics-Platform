@@ -10,6 +10,20 @@ The project simulates real-world Retail and FMCG analytics use cases inspired by
 
 ---
 
+## Portfolio Highlights
+
+- End-to-End Retail Analytics Platform
+- FMCG Analytics Use Cases
+- Marketing Analytics & KPI Monitoring
+- Demand Forecasting & Trend Analysis
+- Customer Analytics & Churn Monitoring
+- AI Powered Retail Insights
+- Power BI Dashboard Integration
+- Production Ready Python Scripts
+- NIQ/RMS Inspired Retail Measurement Framework
+
+---
+
 ## Key Capabilities
 
 ### Retail Analytics
