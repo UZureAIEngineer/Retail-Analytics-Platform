@@ -1,188 +1,321 @@
-# Retail Analytics Platform
+# Retail & FMCG Analytics Platform
 
 ## Overview
 
-Retail Analytics Platform is an end-to-end analytics portfolio project demonstrating how modern retailers can leverage data, analytics, machine learning, and AI to drive business growth and customer engagement.
+An end-to-end Retail, FMCG, Customer and Marketing Analytics Platform developed using Python, SQL-style analytics, Business Intelligence principles, and Retail Measurement concepts.
 
-This project showcases real-world retail analytics use cases including sales performance analysis, customer segmentation, churn prediction, demand forecasting, and AI-powered business insights using below technology stacks and techniques.
+This platform demonstrates how modern analytics can be applied to retail sales data to enable data-driven decision-making through customer analytics, demand forecasting, marketing analytics, retail measurement, and AI-powered business insights.
 
-Python
-EDA
-Pandas
-Visualization
-Business Analytics
+The project simulates real-world Retail and FMCG analytics use cases inspired by Retail Measurement Services (RMS), omnichannel analytics, category management, sales forecasting, and business performance monitoring.
+
+---
+
+## Portfolio Highlights
+
+- End-to-End Retail Analytics Platform
+- FMCG Analytics Use Cases
+- Marketing Analytics & KPI Monitoring
+- Demand Forecasting & Trend Analysis
+- Customer Analytics & Churn Monitoring
+- AI Powered Retail Insights
+- Power BI Dashboard Integration
+- Production Ready Python Scripts
+- NIQ/RMS Inspired Retail Measurement Framework
+
+---
+
+## Key Capabilities
+
+### Retail Analytics
+- Sales Performance Analytics
+- Product Performance Analytics
+- Store Performance Analytics
+- Category Analytics
+- Revenue Analytics
+- Profitability Analytics
+
+### Customer Analytics
+- RFM Segmentation
+- Customer Behavior Analytics
+- Customer Churn Analytics
+- Customer Retention Monitoring
+
+### Forecasting Analytics
+- Demand Forecasting
+- Inventory Planning Support
+- Seasonal Trend Analysis
+- Forecast Performance Monitoring
+
+### Marketing Analytics
+- Product Performance Analytics
+- Category Performance Analytics
+- Marketing ROI Analytics
+- Product Mix Analytics
+- Consumer Purchase Behavior Analytics
+- Marketing KPI Monitoring
+
+### AI Powered Analytics
+- AI Retail Insights
+- Automated KPI Analysis
+- Business Recommendations
+- Executive Decision Support
+
+### Retail Measurement Analytics
+- Market Measurement
+- Store Performance Monitoring
+- Promotion Effectiveness
+- Category Performance Analysis
+- Pricing Analytics
+- Omnichannel Retail Analytics
 
 ---
 
 ## Business Objectives
 
-The platform addresses key business questions:
+This platform answers key business questions such as:
 
 - Which products generate the highest revenue?
-- Which customer segments are most valuable?
-- Which customers are at risk of churning?
-- How can sales performance be improved?
-- What products should be stocked for future demand?
-- How can AI assist business decision-making?
+- Which categories contribute most to total sales?
+- Which stores are top performers?
+- Which products require demand forecasting?
+- How can customer churn be reduced?
+- What are the primary drivers of retail revenue?
+- How effective are marketing activities?
+- How can AI assist retail decision-making?
 
 ---
 
 ## Project Roadmap
 
-### Phase 1 - Sales Analytics Dashboard
+### Phase 1 – Retail Data Exploration ✅
+- Data Profiling
+- Data Quality Assessment
+- Descriptive Analytics
 
-- Revenue Analysis
-- Order Analysis
-- Store Performance
-- Product Performance
-- Profitability Analysis
+### Phase 2 – Retail Data Cleaning & Preparation ✅
+- Data Standardization
+- Data Validation
+- Business Rule Implementation
 
-### Phase 2 - Customer Analytics
+### Phase 3 – Executive Dashboard Data Preparation ✅
+- KPI Dataset Creation
+- Dashboard Data Model
+- Aggregated Summary Tables
 
-- RFM Segmentation
-- Customer Lifetime Value
-- VIP Customer Identification
-- Customer Behavior Analysis
+### Phase 4 – Customer Segmentation (RFM) ✅
+- Recency Analysis
+- Frequency Analysis
+- Monetary Analysis
+- Customer Segmentation
 
-### Phase 3 - Churn Prediction
+### Phase 5 – Customer Churn Analytics ✅
+- Churn Identification
+- Customer Risk Assessment
+- Retention Insights
 
-- Customer Retention Modeling
-- Churn Risk Scoring
-- Customer Retention Recommendations
-
-### Phase 4 - Demand Forecasting
-
+### Phase 6 – Demand Forecasting ✅
 - Sales Forecasting
-- Inventory Planning
-- Seasonal Trend Analysis
+- Trend Analysis
+- Forecast Performance Monitoring
 
-### Phase 5 - AI-Powered Insights
+### Phase 7 – AI Retail Insights ✅
+- AI Driven Business Insights
+- KPI Monitoring
+- Retail Recommendations
 
-- Automated Business Insights
-- Natural Language Explanations
-- Executive Reporting
+### Phase 8 – Marketing Analytics ✅
+- Product Performance Analytics
+- Category Performance Analytics
+- Store Performance Analytics
+- Marketing ROI Analytics
+- Product Mix Analytics
+- Consumer Purchase Behavior Analytics
 
-### Phase 6 - Agentic Retail Analytics
+### Phase 9 – A/B Testing & Promotion Analytics ✅
+- Test vs Control Analysis
+- Promotion Lift Analytics
+- Revenue Uplift Analysis
+- Conversion Analytics
+- Statistical Significance Testing
 
-- AI Retail Analyst
-- Automated KPI Monitoring
-- Intelligent Recommendations
-- Conversational Analytics
+### Phase 10 – Budget Forecasting & Business Planning 🚧
+- Revenue Forecasting
+- Budget Forecasting
+- Variance Analysis
+- Scenario Modelling
+- Strategic Planning Analytics
+
+### Phase 11 – Retail Measurement Analytics 🚧
+- Market Measurement
+- Category Analytics
+- Promotion Analytics
+- Pricing Analytics
+- Omnichannel Analytics
 
 ---
-### Latest Updates
-- Completed Retail EDA notebook
-- Product sales analysis added
-- GitHub portfolio enhancement in progress
-  
+
+## Generated Analytics Outputs
+
+### Customer Analytics
+- rfm_customer_segmentation.csv
+- rfm_segment_summary.csv
+- churn_analysis.csv
+- churn_summary.csv
+
+### Forecasting Analytics
+- demand_forecast.csv
+- forecast_summary.csv
+
+### Dashboard Analytics
+- kpi_summary.csv
+- monthly_sales.csv
+
+### Retail Performance Analytics
+- category_summary.csv
+- product_summary.csv
+- store_summary.csv
+
+### Marketing Analytics
+- marketing_category_summary.csv
+- marketing_product_summary.csv
+- marketing_store_summary.csv
+- marketing_roi.csv
+- marketing_kpi_summary.csv
+
 ---
 
 ## Technology Stack
 
-### Languages
-
+### Programming
 - Python
-- SQL
 
 ### Libraries
-
 - Pandas
 - NumPy
-- Scikit-Learn
 - Matplotlib
 - Seaborn
-- Plotly
+- Scikit-Learn
 
-### Visualization
+### Analytics
+- RFM Analytics
+- Forecasting Analytics
+- Marketing Analytics
+- Retail Measurement Analytics
 
+### Reporting
 - Power BI
-- Streamlit
+- CSV Reporting
+- Executive KPI Dashboards
 
-### AI & Machine Learning
-
-- Machine Learning Models
-- Generative AI
-- Azure AI Services
-- LLM-Based Insights
+### AI
+- AI Assisted Business Insights
+- Retail Recommendation Engine
 
 ---
-
 ## Repository Structure
 
 ```text
+
 Retail-Analytics-Platform/
 │
 ├── data/
 │   ├── raw/
 │   ├── processed/
+│   │   ├── category_summary.csv
+│   │   ├── churn_analysis.csv
+│   │   ├── churn_summary.csv
+│   │   ├── demand_forecast.csv
+│   │   ├── forecast_summary.csv
+│   │   ├── kpi_summary.csv
+│   │   ├── monthly_sales.csv
+│   │   ├── product_summary.csv
+│   │   ├── rfm_customer_segmentation.csv
+│   │   ├── rfm_segment_summary.csv
+│   │   ├── store_summary.csv
+│   │   ├── marketing_category_summary.csv
+│   │   ├── marketing_product_summary.csv
+│   │   ├── marketing_store_summary.csv
+│   │   ├── marketing_roi.csv
+│   │   └── marketing_kpi_summary.csv
+│   │
 │   └── sample_data/
+│       └── retail_sales.csv
 │
 ├── notebooks/
+│   ├── 01_Data_Exploration.ipynb
+│   ├── 02_Retail_EDA_Clean.ipynb
+│   ├── 03_Executive_Dashboard_Data_Prep.ipynb
+│   ├── 04_Customer_Segmentation_RFM.ipynb
+│   ├── 05_Customer_Churn_Analytics.ipynb
+│   ├── 06_Demand_Forecasting.ipynb
+│   ├── 07_AI_Retail_Insights.ipynb
+│   ├── 08_Marketing_Analytics.ipynb
+│   ├── 09_AB_Testing.ipynb
+│   ├── 10_Budget_Forecasting.ipynb
+│   ├── 11_Retail_Measurement_Analytics.ipynb
+│   └── Retail Analytics Agent.ipynb
 │
-├── src/
+├── Scripts/
+│   ├── 01_Data_Exploration.py
+│   ├── 02_Retail_EDA_Clean.py
+│   ├── 03_Executive_Dashboard_Data_Prep.py
+│   ├── 04_Customer_Segmentation_RFM.py
+│   ├── 05_Customer_Churn_Analytics.py
+│   ├── 06_Demand_Forecasting.py
+│   ├── 07_AI_Retail_Insights.py
+│   ├── 08_Marketing_Analytics.py
+│   ├── 09_AB_Testing.py
+│   ├── 10_Budget_Forecasting.py
+│   └── 11_Retail_Measurement_Analytics.py
 │
-├── powerbi/
-│
-├── screenshots/
+├── powerBI/
 │
 ├── docs/
 │
+├── screenshots/
+│
+├── src/
+│
 ├── requirements.txt
+│
+├── .gitignore
 │
 └── README.md
 ```
-
 ---
 
-## Key Business KPIs
+## Project Progress Snapshot
 
-- Total Revenue
-- Total Orders
-- Total Customers
-- Average Order Value
-- Profit Margin
-- Customer Retention Rate
-- Customer Lifetime Value
-- Demand Forecast Accuracy
-
----
-
-
-## Project Status
-
-| Phase | Status |
-|---------|---------|
-| Exploratory Data Analysis | ✅ Completed |
-| Executive Dashboard Data Preparation | ✅ Completed |
-| Customer Segmentation (RFM) | ✅ Completed |
-| Customer Churn Analytics | ⏳ In Progress |
-| Demand Forecasting | ⏳ Planned |
-| AI Retail Insights | ⏳ Planned |
-| Retail Analytics Agent | ⏳ Planned |
-
+| Phase | Module | Status |
+|---------|---------|---------|
+| Phase 1 | Data Exploration | ✅ Completed |
+| Phase 2 | Data Cleaning & EDA | ✅ Completed |
+| Phase 3 | Executive Dashboard Data Prep | ✅ Completed |
+| Phase 4 | Customer Segmentation (RFM) | ✅ Completed |
+| Phase 5 | Customer Churn Analytics | ✅ Completed |
+| Phase 6 | Demand Forecasting | ✅ Completed |
+| Phase 7 | AI Retail Insights | ✅ Completed |
+| Phase 8 | Marketing Analytics | ✅ Completed |
+| Phase 9 | A/B Testing & Promotion Analytics | ✅ Completed |
+| Phase 10 | Budget Forecasting & Business Planning | 🚧 In Progress |
+| Phase 11 | Retail Measurement Analytics | 🚧 In Progress |
 
 ---
-
 
 ## Future Enhancements
 
-- Azure AI Integration
-- Retail Copilot
-- Agentic AI Workflows
-- Customer Recommendation Engine
-- Real-Time Analytics
-- Cloud Deployment
+- Advanced Retail Measurement Analytics
+- Category Management Dashboard
+- Promotion Optimization Engine
+- Budget Planning Dashboard
+- A/B Testing Framework
+- Retail AI Copilot
+- Executive Decision Intelligence Layer
 
 ---
 
 ## Author
 
-**Umesh Zure**
+Umesh Zure
 
-Senior Analytics Professional | Banking Analytics | Retail Analytics | Python | SQL | Azure AI | Generative AI
-
----
-
-## Disclaimer
-
-This project is created for learning, portfolio development, and demonstration of analytics and AI capabilities.
+Retail Analytics | Marketing Analytics | Business Analytics | Banking Analytics | Data Science | AI-Powered Analytics
