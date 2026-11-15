@@ -129,73 +129,74 @@ commonly used across Retail and FMCG organizations:
 
 ### Phase 7 - Retail Measurement Analytics
 
-Market Measurement
+- Market Measurement
 
-Store Performance Analytics
+- Store Performance Analytics
 
-Pricing Analytics
+- Pricing Analytics
 
-Promotion Analytics
+- Promotion Analytics
 
-Category Analytics
+- Category Analytics
 
-Omnichannel Analytics
+- Omnichannel Analytics
 
 
 ### Phase 8 - Marketing & Customer Analytics
 
-Customer Acquisition Analytics
+- Customer Acquisition Analytics
 
-Customer Retention Analytics
+- Customer Retention Analytics
 
-Customer Lifetime Value Analytics
+- Customer Lifetime Value Analytics
 
-Campaign Performance Analytics
+- Campaign Performance Analytics
 
-Marketing ROI Analytics
+- Marketing ROI Analytics
 
-Customer Journey Analytics
+- Customer Journey Analytics
 
-Consumer Purchase Behavior Analytics
+- Consumer Purchase Behavior Analytics
 
 
 ### Phase 9 - A/B Testing & Promotion Analytics
 
-A/B Testing Framework
+- A/B Testing Framework
 
-Test vs Control Analysis
+- Test vs Control Analysis
 
-Promotion Lift Analytics
+- Promotion Lift Analytics
 
-Campaign Effectiveness Analytics
+- Campaign Effectiveness Analytics
 
-Conversion Analytics
+- Conversion Analytics
 
-Revenue Uplift Analytics
+- Revenue Uplift Analytics
 
-Statistical Significance Testing
+- Statistical Significance Testing
 
 
 ### Phase 10 - Forecasting & Business Planning Analytics
 
-Budget Forecasting
+- Budget Forecasting
 
-Revenue Forecasting
+- Revenue Forecasting
 
-Sales Forecasting
+- Sales Forecasting
 
-Variance Analysis
+- Variance Analysis
 
-Scenario Modelling
+- Scenario Modelling
 
-Strategic Planning Analytics
+- Strategic Planning Analytics
 
-Performance Forecast Monitoring
+- Performance Forecast Monitoring
 
 
 ---
 
 ### Latest Updates
+
 - Completed Retail EDA notebook
 - Product sales analysis added
 - GitHub portfolio enhancement in progress
