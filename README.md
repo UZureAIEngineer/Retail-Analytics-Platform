@@ -83,28 +83,38 @@ commonly used across Retail and FMCG organizations:
 
 ### Phase 2 - Customer Analytics
 
-RFM Segmentation
-Customer Lifetime Value
-VOC Analytics
-Customer Behavior Analytics
+- RFM Segmentation
+  
+- Customer Lifetime Value
+  
+- VOC Analytics
+  
+- Customer Behavior Analytics
+  
 
 ### Phase 3 - Churn Prediction
 
-Customer Retention Modeling
-Churn Risk Scoring
-Customer Retention Recommendations
+- Customer Retention Modeling
+  
+- Churn Risk Scoring
+  
+- Customer Retention Recommendations
 
 ### Phase 4 - Demand Forecasting
 
-Sales Forecasting
-Inventory Forecasting
-Seasonal Trend Analytics
+- Sales Forecasting
+  
+- Inventory Forecasting
+  
+- Seasonal Trend Analytics
 
 ### Phase 5 - AI-Powered Insights
 
-Automated Business Insights
-Retail Chat Agent
-Executive Reporting
+- Automated Business Insights
+
+- Retail Chat Agent
+  
+- Executive Reporting
 
 ### Phase 6 - Agentic Retail Analytics
 
