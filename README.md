@@ -70,87 +70,85 @@ commonly used across Retail and FMCG organizations:
 
 ### Phase 1 - Sales Analytics Dashboard
 
-- Revenue Analysis
-- Order Analysis
-- Store Performance
-- Product Performance
-- Profitability Analysis
+Revenue Analytics
+Order Analytics
+Store Performance
+Product Performance
+Profitability Analytics
 
 ### Phase 2 - Customer Analytics
 
-- RFM Segmentation
-- Customer Lifetime Value
-- VIP Customer Identification
-- Customer Behavior Analysis
+RFM Segmentation
+Customer Lifetime Value
+VOC Analytics
+Customer Behavior Analytics
 
 ### Phase 3 - Churn Prediction
 
-- Customer Retention Modeling
-- Churn Risk Scoring
-- Customer Retention Recommendations
+Customer Retention Modeling
+Churn Risk Scoring
+Customer Retention Recommendations
 
 ### Phase 4 - Demand Forecasting
 
-- Sales Forecasting
-- Inventory Planning
-- Seasonal Trend Analysis
+Sales Forecasting
+Inventory Forecasting
+Seasonal Trend Analytics
 
 ### Phase 5 - AI-Powered Insights
 
-- Automated Business Insights
-- Natural Language Explanations
-- Executive Reporting
+Automated Business Insights
+Retail Chat Agent
+Executive Reporting
 
 ### Phase 6 - Agentic Retail Analytics
 
-- AI Retail Analyst
-- Automated KPI Monitoring
-- Intelligent Recommendations
-- Conversational Analytics
+AI Retail Analyst
+Automated KPI Monitoring
+Intelligent Recommendations
+Conversational Analytics
 
 ### Phase 7 - Retail Measurement Analytics
 
-- Market Measurement
-- Store Performance Analytics
-- Pricing Analytics
-- Promotion Analytics
-- Category Analytics
-- Omnichannel Analytics
+Market Measurement
+Store Performance Analytics
+Pricing Analytics
+Promotion Analytics
+Category Analytics
+Omnichannel Analytics
 
+### Phase 8 - Marketing & Customer Analytics
 
-## Phase 8 - Marketing & Customer Analytics
+Customer Acquisition Analytics
+Customer Retention Analytics
+Customer Lifetime Value Analytics
+Campaign Performance Analytics
+Marketing ROI Analytics
+Customer Journey Analytics
+Consumer Purchase Behavior Analytics
 
-- Customer Acquisition Analytics
-- Customer Retention Analytics
-- Customer Lifetime Value Analytics
-- Campaign Performance Analytics
-- Marketing ROI Analytics
-- Customer Journey Analytics
-- Consumer Purchase Behavior Analytics
+### Phase 9 - A/B Testing & Promotion Analytics
 
+A/B Testing Framework
+Test vs Control Analysis
+Promotion Lift Analytics
+Campaign Effectiveness Analytics
+Conversion Analytics
+Revenue Uplift Analytics
+Statistical Significance Testing
 
-## Phase 9 - A/B Testing & Promotion Analytics
+### Phase 10 - Forecasting & Business Planning Analytics
 
-- A/B Testing Framework
-- Test vs Control Analysis
-- Promotion Lift Analytics
-- Campaign Effectiveness Analytics
-- Conversion Analytics
-- Revenue Uplift Analytics
-- Statistical Significance Testing
-
-
-## Phase 10 - Forecasting & Business Planning Analytics
-
-- Budget Forecasting
-- Revenue Forecasting
-- Sales Forecasting
-- Variance Analysis
-- Scenario Modelling
-- Strategic Planning Analytics
-- Performance Forecast Monitoring
+Budget Forecasting
+Revenue Forecasting
+Sales Forecasting
+Variance Analysis
+Scenario Modelling
+Strategic Planning Analytics
+Performance Forecast Monitoring
 
 ---
+
 ### Latest Updates
 - Completed Retail EDA notebook
 - Product sales analysis added
