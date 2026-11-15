@@ -208,36 +208,50 @@ Retail-Analytics-Platform/
 
 ├── data/
 
-│   ├── raw/
+│   
+├── raw/
 
-│   ├── processed/
+│   
+├── processed/
 
-│   └── sample_data/
+│   
+└── sample_data/
 
 │
 ├── notebooks/
 
-│   ├── 01_Data_Exploration.ipynb
+│  
+├── 01_Data_Exploration.ipynb
 
-│   ├── 02_Retail_EDA_Clean.ipynb
+│   
+├── 02_Retail_EDA_Clean.ipynb
 
-│   ├── 03_Executive_Dashboard_Data_Prep.ipynb
+│  
+├── 03_Executive_Dashboard_Data_Prep.ipynb
 
-│   ├── 04_Customer_Segmentation_RFM.ipynb
+│   
+├── 04_Customer_Segmentation_RFM.ipynb
 
-│   ├── 05_Customer_Churn_Analytics.ipynb
+│   
+├── 05_Customer_Churn_Analytics.ipynb
 
-│   ├── 06_Demand_Forecasting.ipynb
+│   
+├── 06_Demand_Forecasting.ipynb
 
-│   ├── 07_AI_Retail_Insights.ipynb
+│   
+├── 07_AI_Retail_Insights.ipynb
 
-│   ├── 08_Marketing_Analytics.ipynb
+│   
+├── 08_Marketing_Analytics.ipynb
 
-│   ├── 09_AB_Testing.ipynb
+│   
+├── 09_AB_Testing.ipynb
 
-│   ├── 10_Budget_Forecasting.ipynb
+│   
+├── 10_Budget_Forecasting.ipynb
 
-│   └── 11_Retail_Measurement_Analytics.ipynb
+│   
+└── 11_Retail_Measurement_Analytics.ipynb
 
 │
 ├── Scripts/
