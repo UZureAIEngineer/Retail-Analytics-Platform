@@ -201,7 +201,12 @@ This platform answers key business questions such as:
 
 ## Repository Structure
 
+---
+
 Retail-Analytics-Platform/
+
+---
+
 
 ├── data/
 │   ├── raw/
