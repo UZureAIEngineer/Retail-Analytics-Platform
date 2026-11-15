@@ -1,0 +1,4 @@
+Scenario,Revenue
+Pessimistic,266400.0
+Expected,296000.0
+Optimistic,325600.0
