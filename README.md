@@ -204,7 +204,6 @@ This platform answers key business questions such as:
 
 Retail-Analytics-Platform/
 
----
 
 
 ├── data/
