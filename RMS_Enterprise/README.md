@@ -24,6 +24,8 @@ Transactions: 1,250,000+
 
 ## RMS Architecture
 
+---
+
 Retail Universe
 
      ↓
@@ -50,4 +52,4 @@ Distribution
      
 Market Share
 
-
+---
