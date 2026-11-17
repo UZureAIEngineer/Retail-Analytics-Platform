@@ -406,15 +406,15 @@ Retail-Analytics-Platform
 
 12_Canada_RMS_Data_Generator_v2_Databricks      ✅ Completed
 
-13_RMS_Data_Profiling_ELT
+13_RMS_Data_Profiling_ELT                       ✅ Completed
 
-14_RMS_Bronze_Layer_Framework
+14_RMS_Bronze_Layer_Framework                   ✅ Completed
 
-15_RMS_Silver_Layer_Framework
+15_RMS_Silver_Layer_Framework                   ✅ Completed
 
-16_RMS_Gold_Layer_Framework
+16_RMS_Gold_Layer_Framework                     ✅ Completed
 
-17_RMS_Data_Quality_Framework
+17_RMS_Data_Quality_Framework                    In Progress
 
 18_RMS_Modernization_Study
 
