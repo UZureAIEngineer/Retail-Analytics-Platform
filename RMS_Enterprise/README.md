@@ -414,9 +414,9 @@ Retail-Analytics-Platform
 
 16_RMS_Gold_Layer_Framework                     ✅ Completed
 
-17_RMS_Data_Quality_Framework                    In Progress
+17_RMS_Modernization_Study                    In Progress
 
-18_RMS_Modernization_Study
+18_RMS_Data_Quality_Framework
 
 19_RMS_DuckDB_Integration
 
