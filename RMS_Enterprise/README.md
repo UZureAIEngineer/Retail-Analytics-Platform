@@ -404,25 +404,29 @@ Retail-Analytics-Platform
 
 # Current Progress
 
-12_Canada_RMS_Data_Generator_v2_Databricks      ✅ Completed
+12_Canada_RMS_Data_Generator_v2_Databricks ✅
 
-13_RMS_Data_Profiling_ELT                       ✅ Completed
+13_RMS_Data_Profiling_ELT_Framework ✅
 
-14_RMS_Bronze_Layer_Framework                   ✅ Completed
+14_RMS_Bronze_Layer_Framework ✅
 
-15_RMS_Silver_Layer_Framework                   ✅ Completed
+15_RMS_Silver_Layer_Framework ✅
 
-16_RMS_Gold_Layer_Framework                     ✅ Completed
+16_RMS_Gold_Layer_Framework ✅
 
-17_RMS_Modernization_Study                    In Progress
+17_RMS_Modernization_Study 🚧
 
-18_RMS_Data_Quality_Framework
+18_RMS_Data_Quality_Framework ⏳
 
-19_RMS_DuckDB_Integration
+19_RMS_DuckDB_Analytics_Engine ⏳
 
-20_RMS_PostgreSQL_Integration
+20_RMS_PostgreSQL_Integration ⏳
 
-21_RMS_AI_Analytics_Layer
+21_RMS_AI_Analytics_Layer ⏳
+
+22_RMS_Retail_Copilot ⏳
+
+23_RMS_Executive_AI_Dashboard ⏳
 
 ---
 
